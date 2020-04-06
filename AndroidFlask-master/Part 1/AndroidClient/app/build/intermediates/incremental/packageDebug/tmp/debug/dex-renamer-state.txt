@@ -1,0 +1,4 @@
+#Mon Apr 06 21:04:33 IST 2020
+base.0=C\:\\Users\\xXHackerboi69Xx\\AndroidStudioProjects\\AndroidFlask-master\\AndroidFlask-master\\Part 1\\AndroidClient\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
